@@ -18,9 +18,11 @@ const WeatherPanel = ({setBackgroundApp}) => {
   //Variable para imagen de fondo
   const [backgroundImage, setBackgroundImage] = useState("")
 
+
   const getLocation = async (city) => {
     setLoading(true);
     setShow(false);
+    
     
 
     const urlWeather = `https://api.openweathermap.org/data/2.5/weather?q=${city}&appid=c1ae368108e49a561a3f9eb7fef6fac5&lang=es`;
@@ -53,9 +55,10 @@ const WeatherPanel = ({setBackgroundApp}) => {
     const respuestaForecast = await fetch(urlForecast);
     const dataForecast = await respuestaForecast.json();
 
-    setForecast(dataForecast);
-    setShow(true);
-    setLoading(false);
+   
+  setForecast(dataForecast);
+  setShow(true);
+  setLoading(false);
   };
 
   return (
@@ -85,6 +88,8 @@ const WeatherPanel = ({setBackgroundApp}) => {
 };
 
 export default WeatherPanel;
+
+
 
 // const responseWeather = await fetch(urlWeather);
 // const dataWeather = await responseWeather.json();
