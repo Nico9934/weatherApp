@@ -60,7 +60,7 @@ const Card = ({ show, loading, weather, backgroundImage, forecast }) => {
                 </div>
               </div>
               {/* Datos Temperatura */}
-              <div>
+              <div className="">
                 <p className="uppercase font-semibold  md:mb-2 text-gray-500">
                   Temperatura:{" "}
                   <span className="font-bold text-xl">

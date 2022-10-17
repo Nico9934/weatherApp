@@ -14,7 +14,7 @@ const Forecast = ({ forecast, setForecast }) => {
 
   return (
     <>
-      <h1 className="text-center font-bold uppercase text-xl text-gray-500">
+      <h1 className="text-center font-bold uppercase text-xl text-gray-500 mt-10">
       Próximas horas
       </h1>
       <div className="flex w-full flex-col md:flex-row md:min-w-fit">
