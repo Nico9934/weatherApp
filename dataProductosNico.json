@@ -1,7 +1,8 @@
 [
     {
-     "id": "63f68d0fbb56565668eaea2731ddsdsdfb75b",
+     "id": "63f68d0fbb8eaea2731ddsdsdfb75b",
      "title": "Celular Iphone 7",
+     "subtitle": "Celular Iphone 7",
      "categoria": "celulares",
      "model ": "Iphone 7",
      "brand": "Iphone",
@@ -30,8 +31,9 @@
      "descuento": 5
     },
     {
-     "id": "63f68d0fbb8eaea2731fss4545345b75b",
+     "id": "63f68d0fbb8eaea2731fb75b",
      "title": "Celular Iphone 8s",
+     "subtitle": "Celular Iphone 8s",
      "categoria": "celulares",
      "model ": "Iphone 8S",
      "brand": "Iphone",
@@ -63,6 +65,7 @@
     {
      "id": "564w6q5ewqe4654wqe",
      "title": "Samsung s20E",
+     "subtitle": "Samsung s20E",
      "categoria": "celulares",
      "model ": "Samsung S20E",
      "brand": "Samsung",
@@ -94,6 +97,7 @@
     {
      "id": "2as3dasda6s4d6asd4",
      "title": "Xiamo redmiNote",
+     "subtitle": "Xiamo redmiNote",
      "categoria": "celulares",
      "model ": "xiaomi redmi note 9",
      "brand": "xiaomi",
@@ -125,6 +129,7 @@
     {
      "id": "63f68d0fbb8eaea2731ferererb75b",
      "title": "Teclado inalambrico",
+     "subtitle": "Teclado inalambrico",
      "categoria": "teclados",
      "model ": "Logitech MK345",
      "brand": "Logitech",
@@ -155,8 +160,9 @@
      "descuento": 5
     },
     {
-     "id": "63f68d0fbb8eaea2hhhhhhhhhhhhh731fb75b",
+     "id": "63f68d0fbb8eaea2731fb75b",
      "title": "Teclado Logitech MX Keys ",
+     "subtitle": "Teclado Logitech MX Keys ",
      "categoria": "teclados",
      "model ": "Logitech MX",
      "brand": "Logitech",
@@ -188,6 +194,7 @@
     {
      "id": "564w6q5ewqe4654wqezxcxzc4654",
      "title": "Teclado Maxig Keyboard Inalambrico",
+     "subtitle": "Teclado Maxig Keyboard Inalambrico",
      "categoria": "teclados",
      "model ": "Apple",
      "brand": "Mac",
@@ -220,6 +227,7 @@
     {
      "id": "2as3dasda6s4d6asd5",
      "title": "Arteck Teclado inalámbrico 2.4G",
+     "subtitle": "Arteck Teclado inalámbrico 2.4G",
      "categoria": "teclados",
      "model ": "Arteck",
      "brand": "Arteck",
@@ -251,6 +259,7 @@
     {
      "id": "63f68d0fbb8eaea273dfdf1fb75b",
      "title": "Lenovo Laptop Ideapad",
+     "subtitle": "Lenovo Laptop Ideapad",
      "categoria": "computadoras",
      "model ": "Lenovo",
      "brand": "Ipeapad 3 2022",
@@ -274,8 +283,9 @@
      "descuento": 5
     },
     {
-     "id": "63f68fghgfhd0fbb8ehjghjghjaea2731fb75b",
+     "id": "63f68d0fbb8eaea2731fb75b",
      "title": "HP Laptop de 15.6 pulgadas",
+     "subtitle": "HP Laptop de 15.6 pulgadas",
      "categoria": "computadoras",
      "model ": "Hp",
      "brand": "Hp",
@@ -306,6 +316,7 @@
     {
      "id": "564w6q5ewqsdfsdfe4654wqe212",
      "title": "Hacer Aspire",
+     "subtitle": "Hacer Aspire",
      "categoria": "computadoras",
      "model ": "Acer",
      "brand": "Acer",
@@ -337,6 +348,7 @@
     {
      "id": "2as3dasda6s4d6asd61212",
      "title": "Computadora portátil 2020 ",
+     "subtitle": "Computadora portátil 2020 ",
      "categoria": "computadoras",
      "model ": "Chromebook",
      "brand": "Chrome",
@@ -368,6 +380,7 @@
     {
      "id": "63f68d0fbb8eaea2731fb75b657657",
      "title": "Auriculares estéreo Sony ",
+     "subtitle": "Auriculares estéreo Sony ",
      "categoria": "auriculares",
      "model ": "Sony MDRZX110 ",
      "brand": "Sony",
@@ -399,6 +412,7 @@
     {
      "id": "63f68d0fbb8eaea2731fb75b122",
      "title": "Beats Studio3",
+     "subtitle": "Beats Studio3",
      "categoria": "auriculares",
      "model ": "Beats Studi 3",
      "brand": "Beats",
@@ -430,6 +444,7 @@
     {
      "id": "564w6q5ewqe4654wqe",
      "title": "Noot K11",
+     "subtitle": "Noot K11",
      "categoria": "auriculares",
      "model ": "Noot k11",
      "brand": "Noot",
@@ -446,6 +461,7 @@
     {
      "id": "2as3dasda6s4d6asd74545dfsbb",
      "title": "AirPods13",
+     "subtitle": "AirPods13",
      "categoria": "auriculares",
      "model ": "AirPods ",
      "brand": "Apple",
