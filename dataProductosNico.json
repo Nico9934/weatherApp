@@ -62,36 +62,7 @@
      "blackfriday": false,
      "descuento": 5
     },
-    {
-     "id": "cxcwekdjclkjxc87834klxclce",
-     "title": "Samsung s20E",
-     "subtitle": "Samsung s20E",
-     "categoria": "celulares",
-     "model ": "Samsung S20E",
-     "brand": "Samsung",
-     "price": 1250,
-     "description": "Tamaño (Pantalla_principal). 158.3mm (6.2 full rectangle) / 154.1mm (6.1 rounded corners) · Resolución (Pantalla principal). 3200 x 1440 (Quad HD+) · Tecnología",
-     "characteristics": {
-        "material": "ABS",
-        "compatible con": "Iphone, Android",
-        "Conectividad": "Wireless",
-        "Respuesta de frecuencia": "20-20000Hz",
-        "Tipo de controlador": "dinámico",
-        "Impedancia": "16ohms ± 15 por ciento",
-        "Sensibilidad": "106 ± 3dB.",
-        "Canal de sonido": "Dos canales (estéreo)"
-    },
-     "photos": [
-        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-s20-5g-r1.jpg",
-         "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-s20-5g-r1.jpg",
-         "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-s20-5g-r1.jpg",
-        ],
-     "status": "active",
-     "promocion": false,
-     "destacados": 5,
-     "blackfriday": true,
-     "descuento": 10
-    },
+    
     {
      "id": "2as3dasda6s4d6asd4",
      "title": "Xiamo redmiNote",
