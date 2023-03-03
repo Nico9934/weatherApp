@@ -63,7 +63,7 @@
      "descuento": 5
     },
     {
-     "id": "sdaweexlkjlasdd89798798",
+     "id": "564w6q5ewqe4654wqe",
      "title": "Samsung s20E",
      "subtitle": "Samsung s20E",
      "categoria": "celulares",
@@ -91,7 +91,7 @@
      "status": "active",
      "promocion": false,
      "destacados": 5,
-     "blackfriday": true,
+     "blackfriday": false,
      "descuento": 10
     },
     {
@@ -156,7 +156,7 @@
      "status": "active",
      "promocion": true,
      "destacados": 3,
-     "blackfriday": true,
+     "blackfriday": false,
      "descuento": 5
     },
     {
@@ -189,10 +189,11 @@
      "promocion": true,
      "destacados": 1,
      "blackfriday": true,
+     "blackfridayphoto": "https://ibb.co/mqmCj8b",
      "descuento": 10
     },
     {
-     "id": "dsasdw45nbtr678jkyzxcxzc4654",
+     "id": "564w6q5ewqe4654wqezxcxzc4654",
      "title": "Teclado Maxig Keyboard Inalambrico",
      "subtitle": "Teclado Maxig Keyboard Inalambrico",
      "categoria": "teclados",
@@ -279,7 +280,7 @@
      "status": "active",
      "promocion": true,
      "destacados": 1,
-     "blackfriday": true,
+     "blackfriday": false,
      "descuento": 5
     },
     {
@@ -342,7 +343,7 @@
      "status": "active",
      "promocion": true,
      "destacados": 1,
-     "blackfriday": true,
+     "blackfriday": false,
      "descuento": 10
     },
     {
@@ -397,11 +398,10 @@
         "Canal de sonido": "Dos canales (estéreo)"
     },
      "photos": [
-        "https://m.media-amazon.com/images/I/71ZC0hq5mGL._AC_SL1500_.jpg",
-        "https://m.media-amazon.com/images/I/71ZC0hq5mGL._AC_SL1500_.jpg",
-        "https://m.media-amazon.com/images/I/71ZC0hq5mGL._AC_SL1500_.jpg",
-        "https://m.media-amazon.com/images/I/71ZC0hq5mGL._AC_SL1500_.jpg",
-        "https://m.media-amazon.com/images/I/71ZC0hq5mGL._AC_SL1500_.jpg"
+      "https://ibb.co/sPzGFBh",
+      "https://ibb.co/sPzGFBh",
+      "https://ibb.co/sPzGFBh",
+      "https://ibb.co/sPzGFBh"
     ],
      "status": "active",
      "promocion": false,
@@ -429,16 +429,17 @@
         "Canal de sonido": "Dos canales (estéreo)"
     },
      "photos": [
-        "https://m.media-amazon.com/images/I/715Sv8XftgL._AC_SL1500_.jpg",
-        "https://m.media-amazon.com/images/I/715Sv8XftgL._AC_SL1500_.jpg",
-        "https://m.media-amazon.com/images/I/715Sv8XftgL._AC_SL1500_.jpg",
-        "https://m.media-amazon.com/images/I/715Sv8XftgL._AC_SL1500_.jpg",
-        "https://m.media-amazon.com/images/I/715Sv8XftgL._AC_SL1500_.jpg"
+      "https://ibb.co/WBLhXfP",
+      "https://ibb.co/WBLhXfP",
+      "https://ibb.co/WBLhXfP",
+      "https://ibb.co/WBLhXfP",
+      "https://ibb.co/WBLhXfP"
     ],
      "status": "active",
      "promocion": false,
      "destacados": 1,
      "blackfriday": true,
+     "blackfridayphoto": "https://ibb.co/MSNcwmn",
      "descuento": 0
     },
     {
@@ -455,7 +456,7 @@
      "status": "active",
      "promocion": true,
      "destacados": 1,
-     "blackfriday": true,
+     "blackfriday": false,
      "descuento": 5
     },
     {
@@ -478,17 +479,18 @@
         "Canal de sonido": "Dos canales (estéreo)"
     },
      "photos": [
-        "https://m.media-amazon.com/images/I/7120GgUKj3L._AC_SL1500_.jpg",
-        "https://m.media-amazon.com/images/I/7120GgUKj3L._AC_SL1500_.jpg",
-        "https://m.media-amazon.com/images/I/7120GgUKj3L._AC_SL1500_.jpg",
-        "https://m.media-amazon.com/images/I/7120GgUKj3L._AC_SL1500_.jpg",
-        "https://m.media-amazon.com/images/I/7120GgUKj3L._AC_SL1500_.jpg"
+      "https://ibb.co/xLbVScb",
+      "https://ibb.co/xLbVScb",
+      "https://ibb.co/xLbVScb",
+      "https://ibb.co/xLbVScb",
+      "https://ibb.co/xLbVScb"
     
     ],
      "status": "active",
      "promocion": true,
      "destacados": 5,
      "blackfriday": true,
+     "blackfridayphoto": "https://ibb.co/c8G7Bbh",
      "descuento": 0
     }
    ]
