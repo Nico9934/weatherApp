@@ -24,7 +24,6 @@ const WeatherPanel = ({setBackgroundApp}) => {
     setShow(false);
     
     
-
     const urlWeather = `https://api.openweathermap.org/data/2.5/weather?q=${city}&appid=c1ae368108e49a561a3f9eb7fef6fac5&lang=es`;
     await fetch(urlWeather)
       .then((respuesta) => respuesta.json())

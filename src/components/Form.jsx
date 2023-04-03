@@ -1,4 +1,5 @@
 import React, { useState } from 'react'
+import ApiDoc from './ApiDoc'
 import Message from './Message'
 
 const Form = ({getLocation, show}) => {
@@ -36,6 +37,9 @@ const Form = ({getLocation, show}) => {
                     type="submit"
                     value={show ?  "Busca otra ciudad" : "Agrega una ciudad" }
                 />
+
+                {/* <ApiDoc /> */}
+
             </form>
 
             {error && <Message>Debes completar el campo</Message>}

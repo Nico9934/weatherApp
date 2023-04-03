@@ -1,6 +1,9 @@
 import React from 'react'
 
 const Spinner = () => {
+    
+
+
     return (
 
         <div className='mt-10 w-full flex'>

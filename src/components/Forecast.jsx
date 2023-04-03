@@ -1,6 +1,6 @@
 import React from "react";
 
-const Forecast = ({ forecast, setForecast }) => {
+const Forecast = ({ forecast, setForecast, key }) => {
   const forecastData = forecast.list.map((datos, index) => {
     const date = datos.dt_txt.slice(datos.dt_txt.length - 8);
     return {
@@ -8,6 +8,7 @@ const Forecast = ({ forecast, setForecast }) => {
       description: datos.weather[0].description,
       time: date.substr(0, date.length - 3),
       icono: datos.weather[0].icon,
+      key: Math.random()
     };
   });
   const primerosResultados = forecastData.slice(1, 5);
@@ -20,11 +21,11 @@ const Forecast = ({ forecast, setForecast }) => {
       <div className="flex w-full flex-col md:flex-row md:min-w-fit">
      
       {primerosResultados.map((dato) => {
-        const { temp, description, time, icono } = dato;
-        const key = Math.random();
-
+        const { temp, description, time, icono, key } = dato;
         return (
-            <div className="md:mr-1 w-full md:w-20 flex h-auto mt-2 flex-row md:flex-col justify-around md:justify-center md:m-auto">
+            <div 
+            key= {key}
+            className="md:mr-1 w-full md:w-20 flex h-auto mt-2 flex-row md:flex-col justify-around md:justify-center md:m-auto">
               <img
                 className="w-10 h-10 m-0 md:m-auto"
                 src={`http://openweathermap.org/img/wn/${icono}@2x.png`}

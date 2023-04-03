@@ -77,7 +77,9 @@ const Card = ({ show, loading, weather, backgroundImage, forecast }) => {
                 </p>
               </div>
 
-              <Forecast forecast={forecast} />
+              <Forecast 
+              forecast={forecast}
+              />
             </div>
           </div>
         </div>
