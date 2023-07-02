@@ -1,7 +1,7 @@
 ![Weather app](https://raw.githubusercontent.com/Nico9934/weatherApp/main/Weather%20App.png)
 
 
-# Ecommerce Congelados ⚛️
+# WeatherApp - Chequealo antes de salir ☀️☀️
 
 ####  Project by: Nico Rolon ©️
 
