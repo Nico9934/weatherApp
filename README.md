@@ -1,4 +1,4 @@
-![Descripción de la imagen](/Weather App.png)
+![Weather app](https://raw.githubusercontent.com/Nico9934/weatherApp/main/Weather%20App.png)
 
 
 # Ecommerce Congelados ⚛️
